@@ -52,7 +52,7 @@ const projects = [
     image: "/images/Screenshot (11).png",
     techStack: ["MERN STACK", "Redis", "firebase Auth", "AWS", "Langgraph", "Docker", "Razorpay", "Socket.IO"],
     githubUrl: "https://github.com/ArchanaSathiyaseelans/AI_MULTI_AGENT_CODE_EDITOR.git",
-    liveUrl: "http://100.48.184.36:3000"
+    liveUrl: "https://www.vertexaicode.space"
   }
 ];
 
