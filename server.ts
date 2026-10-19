@@ -50,7 +50,7 @@ const projects = [
     title: "Multi-Agent AI Code Editor",
     description: "A Scalable Full Stack MicroService Architecture Powered by Langgraph agent workflows.Realtime collabration workflows using Socketio and Redis caching for low-latency session with Razorpay payment integration.",
     image: "/images/Screenshot (11).png",
-    techStack: ["MERN STACK", "Redis", "firebase Auth", "AWS", "Langgraph", "Docker", "Razorpay", "Socket.IO"],
+    techStack: ["MERN STACK", "Redis", "firebase Auth", "AWS", "Langgraph", "Redux toolkit", "Docker", "Razorpay", "Socket.IO"],
     githubUrl: "https://github.com/ArchanaSathiyaseelans/AI_MULTI_AGENT_CODE_EDITOR.git",
     liveUrl: "https://www.vertexaicode.space"
   }
